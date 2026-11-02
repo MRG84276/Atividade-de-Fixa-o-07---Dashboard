@@ -18,7 +18,6 @@ with st.sidebar:
     st.markdown("**Turma: 3B2")
     st.markdown("**Disciplina: Python")
     st.markdown("---")
-    st.caption("Utilize a seta no topo para recolher ou expandir esta barra de menu.")
 
 
     st.title(" Dashboard de Visualização de Dados")
